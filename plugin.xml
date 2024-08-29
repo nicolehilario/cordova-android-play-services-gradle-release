@@ -59,7 +59,6 @@
         <preference name="play-services-places" default="17.0.0" />
         <preference name="play-services-places-placereport" default="17.0.0" />
         <preference name="play-services-plus" default="17.0.0" />
-        <preference name="play-services-safetynet" default="17.0.0" />
         <preference name="play-services-stats" default="17.0.0" />
         <preference name="play-services-tagmanager" default="17.0.0" />
         <preference name="play-services-tagmanager-api" default="17.0.0" />
